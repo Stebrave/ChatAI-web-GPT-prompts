@@ -13,10 +13,10 @@ QQ:10589067
 
 最新链接发布地址：https://www.1nbai.com
 
-![www.1nbai.com](https://github.com/Stebrave/Stebrave.github.io/blob/main/image/1.png)
-![www.1nbai.com](https://github.com/Stebrave/Stebrave.github.io/blob/main/image/2.png)
-![www.1nbai.com](https://github.com/Stebrave/Stebrave.github.io/blob/main/image/3.png)
-![www.1nbai.com](https://github.com/Stebrave/Stebrave.github.io/blob/main/image/4.png)
+![www.1nbai.com](https://gitlab.com/Stebrave/chatai-web-gpt-prompts/-/raw/main/1.png)
+![www.1nbai.com](https://gitlab.com/Stebrave/chatai-web-gpt-prompts/-/raw/main/2.png)
+![www.1nbai.com](https://gitlab.com/Stebrave/chatai-web-gpt-prompts/-/raw/main/3.png)
+![www.1nbai.com](https://gitlab.com/Stebrave/chatai-web-gpt-prompts/-/raw/main/4.png)
 
 
 ## 高级版
